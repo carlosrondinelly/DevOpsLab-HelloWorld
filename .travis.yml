@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $HEROKU_API_KEY
-  app: dev-321
+    secure: $API_KEY
+  app: devforlinux
